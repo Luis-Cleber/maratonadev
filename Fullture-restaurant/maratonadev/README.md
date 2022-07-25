@@ -1,2 +1,0 @@
-# maratonadev
-Maratona Dev Fullture
